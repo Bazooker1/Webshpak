@@ -1,0 +1,1 @@
+(()=>{"use strict";window.onload=function(){!function(e){const n=document.createElement("shp");n.innerText="disruptor",e.append(n)}(document.querySelector("body"))}})();
